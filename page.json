@@ -4,9 +4,9 @@
   "image_url": "https://raw.githubusercontent.com/JacobFV/my-links/main/profile-picture.jpeg",
   "links": [
     {
-      "title": "Email",
-      "url": "mailto:jacob.valdez@limboid.ai",
-      "icon": "email"
+      "title": "Site",
+      "url": "https://jacobfv.github.io",
+      "icon": "site"
     },
     {
       "title": "LinkedIn",
