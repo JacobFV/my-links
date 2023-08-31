@@ -4,10 +4,6 @@
   "image_url": "https://raw.githubusercontent.com/JacobFV/my-links/main/profile-picture.jpeg",
   "links": [
     {
-      "title": "Site",
-      "url": "https://jacobfv.github.io"
-    },
-    {
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/in/jacob-f-valdez",
       "icon": "linkedin"
